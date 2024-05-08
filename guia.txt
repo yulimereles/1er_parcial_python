@@ -1,0 +1,6 @@
+se crea un entorno de python
+python -m venv venv
+
+se utiliza source venv/Scripts/activate
+
+se instala pandas, matplotlib
